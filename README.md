@@ -13,8 +13,8 @@ This is an ongoing learning project and will be actively extended and refined as
 
 For a more detailed discussion of the concepts:
 
-- Short Post: 
-- Technical Notes (GPU section):
+- Short Post: www.deep-kondah.com/gpu-architecture-cuda-programming-and-gemm
+- Technical Notes (GPU section): https://books.deep-kondah.com
 
 Compile the CUDA source code using `nvcc`:
 
