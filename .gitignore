@@ -1,0 +1,43 @@
+# JetBrains / CLion
+.idea/
+*.iml
+
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# CUDA generated files
+*.cubin
+*.ptx
+*.fatbin
+*.gpu
+*.i
+*.ii
+
+# Project executable
+gemm
+
+# macOS
+.DS_Store
+
+# Editor temporary files
+*.swp
+*.swo
+*~
